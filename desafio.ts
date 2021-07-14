@@ -68,6 +68,6 @@ function testClaseEdificio() {
   
   function main() {
     testClaseEdificio();
-    console.log("kaka");
+    console.log("hello madafaker");
   }
   main();
